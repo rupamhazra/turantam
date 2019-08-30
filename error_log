@@ -1,0 +1,15 @@
+[23-Oct-2018 11:27:23 Etc/GMT] PHP Fatal error:  Call to protected method CI_DB_query_builder::_compile_select() from context 'Productmodel' in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 24
+[23-Oct-2018 11:28:36 Etc/GMT] PHP Fatal error:  Call to protected method CI_DB_query_builder::_compile_select() from context 'Productmodel' in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 24
+[23-Oct-2018 11:28:39 Etc/GMT] PHP Fatal error:  Call to protected method CI_DB_query_builder::_compile_select() from context 'Productmodel' in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 24
+[23-Oct-2018 11:31:27 Etc/GMT] PHP Fatal error:  Call to protected method CI_DB_query_builder::_compile_select() from context 'Productmodel' in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 24
+[23-Oct-2018 11:33:42 Etc/GMT] PHP Fatal error:  Call to protected method CI_DB_query_builder::_reset_select() from context 'Productmodel' in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 26
+[23-Oct-2018 11:34:28 Etc/GMT] PHP Fatal error:  Call to protected method CI_DB_query_builder::_compile_select() from context 'Productmodel' in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 24
+[23-Oct-2018 12:11:38 Etc/GMT] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 28
+[23-Oct-2018 12:11:56 Etc/GMT] PHP Fatal error:  Cannot access empty property in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 28
+[23-Oct-2018 12:30:43 Etc/GMT] PHP Fatal error:  Call to a member function result_array() on null in /home/shyamjth/public_html/turantam/application/models/Productmodel.php on line 50
+[05-Nov-2018 06:08:57 Etc/GMT] PHP Fatal error:  Call to undefined function getOrderConfigDetails() in /home/shyamjth/public_html/turantam/application/controllers/Api.php on line 308
+[05-Nov-2018 09:34:52 Etc/GMT] PHP Fatal error:  Call to undefined function getOrderConfigDetails() in /home/shyamjth/public_html/turantam/application/models/Ordermodel.php on line 53
+[05-Nov-2018 09:35:18 Etc/GMT] PHP Fatal error:  Call to undefined function getOrderConfigDetails() in /home/shyamjth/public_html/turantam/application/models/Ordermodel.php on line 53
+[05-Nov-2018 09:41:31 Etc/GMT] PHP Fatal error:  Call to undefined function getOrderConfigDetails() in /home/shyamjth/public_html/turantam/application/models/Ordermodel.php on line 53
+[05-Nov-2018 09:43:26 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'paytm/config_paytm.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/shyamjth/public_html/turantam/application/helpers/my_helper.php on line 166
+[08-Nov-2018 07:35:25 Etc/GMT] PHP Fatal error:  Call to undefined function sms() in /home/shyamjth/public_html/turantam/application/models/Usermodel.php on line 55

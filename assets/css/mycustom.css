@@ -1,0 +1,74 @@
+.label{
+	border:1px solid;
+}
+.red{
+	color:red;
+}
+.blue{
+	color:blue;
+}
+.brown{
+	color:#a94442;
+}
+.badge-bc{
+  background-color: #5cb85c;
+  color: #fff !important;
+}
+a.label:focus, a.label:hover {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.no_category{
+      text-align: center;
+    color: skyblue;
+    border: 1px solid #E6E9ED;
+    padding: 10px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.alert{
+  padding: 7px;
+  margin-bottom: 0px;
+  padding-left: 30px;
+}
+.errorClass {
+	border:1px solid red !important;
+}
+
+.input{	
+}
+.input-wide{
+	width: 500px;
+}
+.mb-15{
+    margin-bottom: 15px;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+hr{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.big-checkbox {width: 16px; height: 16px;}
+.site_title img {
+    width: 126px;
+    margin: 3px auto;
+}
+.colorgraph {
+    height: 7px;
+    border-top: 0;
+    background: #c4e17f;
+    border-radius: 5px;
+    background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+.steelBack{
+background:#010304 !important;
+}
+.errorClass{
+border:1px solid red !important;
+}
